@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCode.a  CMakeFiles/Code.dir/Chapter_3/Linked_List.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCode.a
